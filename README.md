@@ -21,4 +21,8 @@ Site de registro de hábitos criado em react na trilha Ignite da Rocketseat
 
 <h2>📷Imagens do projeto📷</h2>
 
-![Tela principal]<img width="960" alt="image" src="https://user-images.githubusercontent.com/74430293/215233424-6b8beb12-00b8-4bf3-989a-efd997b871e8.png">
+<div style={'display:flex'}>
+   <img width="960" alt="image" src="https://user-images.githubusercontent.com/74430293/215233552-6aa0cbd4-e75c-4539-a75d-27761a0d1882.png">
+  <img width="960" alt="image" src="https://user-images.githubusercontent.com/74430293/215233553-247e8e2e-ca59-4fd9-a7eb-b2bdad3c8553.png">
+
+</div>
