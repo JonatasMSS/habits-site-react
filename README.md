@@ -26,3 +26,6 @@ Site de registro de hábitos criado em react na trilha Ignite da Rocketseat
 
 <h4>Tela principal - Pop Over ativado</h4>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/74430293/215233989-08577c9c-2505-4d03-b13a-c3e806b21d15.png">
+
+<h4> Tela principal - Pop over de criar novo hábito </h4>
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/74430293/215234043-e18d9b02-748f-4ec8-979a-07b6da0cbb89.png">
