@@ -1,4 +1,4 @@
-# habits-site-react
+# 💻Site de registro de Hábitos - React
 Site de registro de hábitos criado em react na trilha Ignite da Rocketseat
 
 
@@ -19,3 +19,6 @@ Site de registro de hábitos criado em react na trilha Ignite da Rocketseat
   <li> Estruturação de código e arquitetura de pastas</li>
 </ul>
 
+<h2>📷Imagens do projeto📷</h2>
+
+![Tela principal]<img width="960" alt="image" src="https://user-images.githubusercontent.com/74430293/215233424-6b8beb12-00b8-4bf3-989a-efd997b871e8.png">
